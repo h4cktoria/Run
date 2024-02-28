@@ -1,0 +1,9 @@
+import_code("/home/guest/Sources/Run/src/run.src")
+
+
+add = function(a, b)
+    return a + b
+end function
+
+print(run(@add, [2, 3])) // 5
+print(run(@add, [1, 2, 3])) // Runtime error
