@@ -18,7 +18,7 @@ Important note: this is **NOT A REAL ALGORITHM**! This has been made, works and 
 
 ## What's even this??? <a name="what-is-this"></a>
 
-Basically it's a mess of if-checks that allows you to run your function without invoking it directly. Still don't get it? Well, here is the example:
+Basically it's a mess of if-checks that allows you to run your function without invoking it directly. Still don't get it? Well, here are the example:
 
 Let's say we have a function:
 
